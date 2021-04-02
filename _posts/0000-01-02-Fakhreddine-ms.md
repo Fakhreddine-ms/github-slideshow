@@ -1,5 +1,4 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-hello friends
+---learn coding is amazing
